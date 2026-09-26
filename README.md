@@ -1,7 +1,5 @@
 # 💫 About Me:
-Omni-Channel — building seamless multi-platform communication systems<br>Open source projects, system architecture and pipeline design from roots<br>System Design and leveling up Spring Boot skills<br>Flutter, PostgreSQL and Spring BootFlutter development, UI/UX design and Computer Science fundamentals<br>I'm a huge cricket fan 🏏 and love watching army documentaries 🎖️
-
-
+I design and build scalable product architecture — systems that hold up as usage grows, not just demos that work once.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas.sri._05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-srivastava-32254a328) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ManasS33341) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manascse99@gmail.com) 
 
