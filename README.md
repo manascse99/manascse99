@@ -20,13 +20,7 @@
 | **Lok Samadhan** | AI civic grievance platform: photo verification, duplicate detection, department routing and proof-based resolution with a tamper-evident audit trail. | React, TypeScript, PostgreSQL, Edge Functions, AI Vision, MCP | [Portfolio](https://portfolio-manas-sigma.vercel.app/) |
 | **Nike Sneakers Store** | End-to-end Flutter e-commerce app with product catalogue, cart management and checkout flow. | Flutter, Dart | [Portfolio](https://portfolio-manas-sigma.vercel.app/) |
 
-![Connect](./assets/connect.svg?v=2)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manas-srivastava-32254a328/"><img alt="LinkedIn" src="./assets/connect-linkedin.svg?v=2" width="384"></a>
-  &nbsp;&nbsp;
-  <a href="https://portfolio-manas-sigma.vercel.app/"><img alt="Portfolio" src="./assets/connect-portfolio.svg?v=2" width="384"></a>
-</p>
+![Connect](./assets/connect.svg?v=1)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manas-srivastava-32254a328/"><strong>LinkedIn</strong></a>
